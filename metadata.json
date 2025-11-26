@@ -1,0 +1,5 @@
+{
+  "name": "FutureGen",
+  "description": "Advanced AI image generation tool allowing users to modify characters while preserving identity, with support for reference images to transfer specific attributes like pose or style.",
+  "requestFramePermissions": []
+}
